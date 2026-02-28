@@ -3,6 +3,7 @@ Diabetes Prediction Using Machine Learning with an End-to-End MLOps Pipeline
 
 PROJECT OVERVIEW
 
+
 Diabetes affects over 500 million people globally, making early detection critical to prevent complications like heart disease and kidney failure. This project builds a machine learning model to predict diabetes risk using key health metrics—blood glucose, BMI, age, insulin, and more—from  _____ dataset.
 
 "Mellitus MLOps" is an intelligent system designed to:
