@@ -1,1 +1,1 @@
-# diabiaties-prediction
+# MLOps pipeline for  diabiaties-prediction
