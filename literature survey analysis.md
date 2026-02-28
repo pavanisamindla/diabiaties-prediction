@@ -2,10 +2,15 @@
 
    
 Source: Journal of Healthcare Engineering, 2022
+
 DOI: https://doi.org/10.17148/IJARCCE.2022.11315
+
 File Reference: early_detection_ml_2022
+
 Objective: The objective is to develop accurate early diabetes detection using classical machine learning algorithms on standard medical datasets.
+
 Methodology: Logistic Regression, SVM, Random Forest applied on PIMA dataset with normalization, feature selection, and train-test split evaluation.
+
 Key Features: Random Forest achieved 82% accuracy
               Preprocessing improved performance by 8-12%
               Simple, interpretable classical ML models
@@ -13,7 +18,8 @@ Key Features: Random Forest achieved 82% accuracy
 Limitations:  Limited to small dataset (768 samples)
               No real-time deployment testing
               Lacked class imbalance handling
- Relevance to Our Project
+ Relevance to Our Project:
+ 
  Validates Random Forest as reliable baseline.
  Our Mellitus MLOps extends this with larger BRFSS dataset (70k+), SMOTE balancing, and production deployment.
 
